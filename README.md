@@ -21,8 +21,9 @@ This project analyzes airline ticket prices using Tableau, highlighting trends b
 - Microsoft Excel
 
 ## ✅ Key Insights
-- Airline and class heavily influence pricing
-- Last-minute bookings cost significantly more
-- Departure/arrival time patterns show pricing trends
+- Ticket prices vary significantly across airlines and travel class.
+- Last-minute bookings (1–2 days before travel) lead to higher prices.
+- Morning/Evening flights show consistent pricing patterns.
+- Certain routes have significantly higher average fares than others.
 
 ## 🔗 [View on Tableau Public](#) *(https://public.tableau.com/app/profile/vikram.rana.singh/viz/AirlinePricePrediction_17512056561600/AirlinesPricePrediction?publish=yes)*
